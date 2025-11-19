@@ -1,0 +1,72 @@
+﻿PatientID,XPID,Age,Sex,Previous_Therapies,Grade,Stage,Sarcomatoid,Rhabdoid,Source,Site,Purity,Size_primary_tumour_cm,Focality,pN,M,VHL,PBRM1,TP53,SETD2,BAP1,PTEN,WES,RNAseq,Subcutaneous_Growth
+XP1084,XP1084,71,Male,Treatment Naïve,G3,T3a,Absent,Absent,Primary Tumor,Kidney,0.968421053,7.7,Unifocal,pN0,M0,1,0,0,0,0,0,XP1084T_TGc0,XP1084T_TGc0,Yes
+XP127,XP127,36,Male,Treatment Naïve,G3,T3a,NA,NA,Primary Tumor,Kidney,1,6.2,Unifocal,pNx,M0,1,0,0,0,0,0,XP127T_TGc1,XP127T_TGc1,Yes
+XP142,XP142,56,Female,Treatment Naïve,G3,T3a,NA,NA,Primary Tumor,Kidney,1,8.6,Unifocal,pNx,M0,1,1,0,0,0,0,XP142T_TGc1,XP142T_TGc1,No
+XP142,XP418,59,Female,Treatment Naïve,NA,NA,NA,NA,Metastasis,Liver,0.976744186,NA,NA,NA,M1,1,1,0,0,0,0,XP142M_TGc0,XP142M_TGc0,Yes
+XP158,XP158,82,Female,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,1,12.7,Multifocal,pNx,M1,1,1,0,0,0,0,XP158T_TGc1,XP158T_TGc1,Yes
+XP165,XP165,42,Male,"HD-IL2, Interferon, Bevacizumab",G3,NA,NA,NA,Metastasis,Abdominal / retroperitoneal mass,1,NA,NA,NA,M1,1,1,0,0,0,0,XP165T_TGc1,XP165T_TGc1,Yes
+XP166,XP166,57,Male,Treatment Naïve,G4,T3b,Present,NA,Primary Tumor,Kidney,1,9,Unifocal,pN1,M0,1,0,0,0,1,0,XP166T_TGc10,XP166T_TGc10,Yes
+XP180,XP180,56,Male,Treatment Naïve,NA,NA,NA,NA,Metastasis,Bone,0.991803279,NA,NA,NA,M1,1,1,0,0,0,0,XP183M_TGc1,XP183M_TGc1,NA
+XP191,XP191,83,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,1,9.6,Unifocal,pNx,M0,1,0,0,0,0,0,XP191T_TGc0,XP191T_TGc0,Yes
+XP206,XP206,73,Male,HD-IL2 [8 yrs prior with CR],NA,NA,NA,NA,Metastasis,Brain,0.990291262,NA,NA,NA,M1,1,1,0,0,0,0,XP206M_TGc0,XP206M_TGc0,Yes
+XP213,XP213,55,Female,HD-IL2,G3,T3a,Absent,NA,Primary Tumor,Kidney,1,9,Unifocal,pNx,M1,1,1,0,0,0,0,XP213T_TGc2,XP213T_TGc2,No
+XP213,XP213,55,Female,HD-IL2,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.980952381,9,Unifocal,pNx,M1,1,1,0,0,0,0,XP213T_TGc1,XP213T_TGc1,No
+XP241,XP241,55,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.956521739,10.5,Unifocal,pN0,M0,1,0,0,0,0,0,XP241T_TGc0,XP241T_TGc0,Yes
+XP243,XP243,60,Male,Treatment Naïve,G4,T1b,Absent,NA,Primary Tumor,Kidney,0.991735537,6.5,Unifocal,pN0,M0,1,1,0,1,0,0,XP243T_TGc0,XP243T_TGc0,NA
+XP245,XP245,65,Female,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,1,5.8,Multifocal,pN1,M1,1,1,0,0,0,0,XP245T_TGc0,XP245T_TGc0,No
+XP250,XP250,62,Female,Treatment Naïve,G3,T2a,Absent,NA,Primary Tumor,Kidney,1,9,Unifocal,pN0,M0,1,1,0,1,0,0,XP250T_TGc1,XP250T_TGc1,Yes
+XP258,XP259,51,Female,Treatment Naïve,G4,T3a,Present,NA,Metastasis,Adrenal gland,1,9.7,Multifocal,pN0,M1,1,0,1,0,0,0,XP258M_TGc0,XP258M_TGc0,No
+XP258,XP258,51,Female,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,1,9.7,Multifocal,pN0,M1,1,0,0,0,0,0,XP258T_TGc1,XP258T_TGc1,Yes
+XP264,XP264,55,Male,Treatment Naïve,G3,T3b,NA,NA,Primary Tumor,Kidney,0.99047619,12,Unifocal,pN0,M0,1,0,0,0,1,0,XP264T_TGc0,XP264T_TGc0,NA
+XP276,XP276,70,Male,Treatment Naïve,G3,T3c,Absent,NA,Primary Tumor,Kidney,0.96875,13,Unifocal,pN1,M0,1,0,0,1,1,0,XP276T_TGc0,XP276T_TGc0,NA
+XP289,XP289,62,Female,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.887323944,6.5,Unifocal,pN0,M1,1,1,0,0,0,0,XP289T_TGc0,XP289T_TGc0,No
+XP296,XP296,47,Male,Everolimus,G4,T3a,Present,NA,Primary Tumor,Kidney,1,14,Unifocal,pNx,M1,1,0,0,0,0,0,XP296T_TGc0,XP296T_TGc0,Yes
+XP315,XP316,70,Female,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Tumor Thrombus,1,11,Unifocal,pN0,M0,1,1,0,1,0,0,XP315Th_TGc2,XP315Th_TGc2,Yes
+XP315,XP316,70,Female,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Tumor Thrombus,1,11,Unifocal,pN0,M0,1,1,0,1,0,0,XP315Th_TGc2,XP315Th_TGc0,Yes
+XP331,XP332,55,Male,Treatment Naïve,G3,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,1,14,Unifocal,pN1,M0,1,1,0,0,0,0,XP331Th_TGc1,XP331Th_TGc1,Yes
+XP331,XP332,55,Male,Treatment Naïve,G3,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,1,14,Unifocal,pN1,M0,1,1,0,0,0,0,XP331Th_TGc0b,XP331Th_TGc0a,Yes
+XP331,XP332,55,Male,Treatment Naïve,G3,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,1,14,Unifocal,pN1,M0,1,1,0,0,0,0,XP331Th_TGc0b,XP331Th_TGc0b,Yes
+XP369,XP369,66,Female,Treatment Naïve,G4,T3a,Absent,NA,Primary Tumor,Kidney,0.981818182,8,Unifocal,pNx,M0,1,1,0,1,0,1,XP369T_TGc0,XP369T_TGc0,Yes
+XP374,XP374,48,Male,Treatment Naïve,G4,T4,Present,Present,Primary Tumor,Kidney,0.828402367,14.5,Unifocal,pN0,M0,1,0,1,1,0,0,XP374T_TGc0,XP374T_TGc0,Yes
+XP374,XP375,48,Male,Treatment Naïve,G4,T4,Present,Present,Primary Tumor,Tumor Thrombus,0.896103896,14.5,Unifocal,pN0,M0,1,0,1,1,0,0,XP374Th_TGc0a,XP374Th_TGc0a,Yes
+XP374,XP375,48,Male,Treatment Naïve,G4,T4,Present,Present,Primary Tumor,Tumor Thrombus,0.99009901,14.5,Unifocal,pN0,M0,1,0,1,1,0,0,XP374Th_TGc0,XP374Th_TGc0,Yes
+XP389,XP391,57,Male,Treatment Naïve,G4,T3a,Absent,NA,Primary Tumor,Tumor Thrombus,1,22.5,Unifocal,pN0,M0,1,1,0,1,0,0,XP389Th_TGc0,XP389Th_TGc0,Yes
+XP389,XP391,57,Male,Treatment Naïve,G4,T3a,Absent,NA,Primary Tumor,Tumor Thrombus,1,22.5,Unifocal,pN0,M0,1,1,0,1,0,0,XP389Th_TGc2,XP389Th_TGc2,Yes
+XP394,XP394,68,Male,Treatment Naïve,G3,T4,Absent,NA,Primary Tumor,Kidney,1,8.5,Unifocal,pN0,M1,1,1,0,0,0,0,XP394T_TGc0,XP394T_TGc0,No
+XP426,XP426,56,Female,Treatment Naïve,G4,T4,Absent,Present,Primary Tumor,Kidney,1,14.6,Unifocal,pN1,M1,1,0,0,0,0,0,XP426T_TGc1,XP426T_TGc1,Yes
+XP426,XP427,56,Female,Treatment Naïve,G4,T4,Absent,Present,Regional Lymphnode,Regional Lymphnodes,1,14.6,Unifocal,pN1,M1,1,0,0,0,0,0,XP426M_TGc0,XP426M_TGc0,Yes
+XP434,XP434,76,Male,Treatment Naïve,NA,NA,NA,NA,Metastasis,Liver,0.989690722,NA,NA,NA,M1,1,1,0,0,0,0,XP434M_TGc0,XP434M_TGc0,Yes
+XP469,XP469,61,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,1,7.5,Unifocal,pN0,M0,1,1,0,1,0,0,XP469T_TGc1,XP469T_TGc1,Yes
+XP469,XP470,61,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Tumor Thrombus,1,7.5,Unifocal,pN0,M0,1,1,0,1,0,0,XP469Th_TGc0,XP469Th_TGc0,NA
+XP473,XP474,60,Female,Treatment Naïve,G4,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,0.979020979,11,Unifocal,pN1,M1,1,1,0,0,0,0,XP473Th_TGc1,XP473Th_TGc1,Yes
+XP473,XP474,60,Female,Treatment Naïve,G4,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,0.968503937,11,Unifocal,pN1,M1,1,1,0,0,0,0,XP473Th_TGc0,XP473Th_TGc0,Yes
+XP481,XP481,67,Male,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,0.983050847,6,Unifocal,pNx,M1,1,0,0,0,0,0,XP481T_TGc0,XP481T_TGc0,Yes
+XP483,XP483,49,Male,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,1,9,Unifocal,pN0,M0,1,0,1,1,0,0,XP483Tc_TGc0,XP483Tc_TGc0,Yes
+XP483,XP483,49,Male,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,0.994923858,9,Unifocal,pN0,M0,1,0,1,1,0,0,XP483Td_TGc0,XP483Td_TGc0,Yes
+XP490,XP490,64,Male,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,1,10.5,Unifocal,pN1,M1,1,0,1,0,0,0,XP490T_TGc0,XP490T_TGc0,Yes
+XP519,XP519,51,Male,Treatment Naïve,G4,T2a,Present,NA,Primary Tumor,Kidney,1,7.2,Unifocal,pNx,M0,1,0,0,0,1,0,XP519T_TGc0a,XP519T_TGc0a,Yes
+XP519,XP519,51,Male,Treatment Naïve,G4,T2a,Present,NA,Primary Tumor,Kidney,0.989690722,7.2,Unifocal,pNx,M0,1,0,0,0,1,0,XP519T_TGc0b,XP519T_TGc0b,Yes
+XP534,XP534,65,Male,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,1,9,Unifocal,pN0,M0,1,0,0,0,0,1,XP534T_TGc0,XP534T_TGc0,Yes
+XP534,XP535,65,Male,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Tumor Thrombus,1,9,Unifocal,pN0,M0,1,0,0,0,0,0,XP534Th_TGc1,XP534Th_TGc1,Yes
+XP536,XP536,67,Female,Treatment Naïve,G4,T3a,Present,NA,Primary Tumor,Kidney,0.991304348,9,Unifocal,pN1,M0,1,1,0,1,0,0,XP536T_TGc2,XP536T_TGc2,Yes
+XP579,XP579,58,Male,Treatment Naïve,G4,T4,Present,NA,Primary Tumor,Kidney,1,12,Multifocal,pN1,M1,1,0,0,0,1,1,XP579T_TGc1,XP579T_TGc1,Yes
+XP592,XP593,53,Male,Treatment Naïve,G3,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,0.992366412,13,Unifocal,pN1,M1,1,0,0,0,0,0,XP592Th_TGc0,XP592Th_TGc0,Yes
+XP607,XP608,61,Male,Treatment Naïve,G4,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,1,8.5,Unifocal,pN0,M0,1,1,0,0,0,0,XP607Th_TGc1,XP607Th_TGc1,Yes
+XP610,XP610,55,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.996047431,8.5,Multifocal,pNx,M1,1,0,0,0,0,0,XP610T_TGc0,XP610T_TGc0,Yes
+XP610,XP610,55,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.9921875,8.5,Multifocal,pNx,M1,1,0,0,0,0,0,XP610T_TGc1,XP610T_TGc1,Yes
+XP610,XP610,55,Male,Treatment Naïve,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.993006993,8.5,Multifocal,pNx,M1,1,0,0,0,0,0,XP610T_TGc5,XP610T_TGc5,Yes
+XP653,XP653,70,Male,Treatment Naïve,G4,T4,Absent,NA,Metastasis,Liver,0.986394558,9,Unifocal,pN0,M1,1,0,0,0,0,1,XP653M_TGc0,XP653M_TGc0,Yes
+XP669,XP669,53,Male,Sunitinib,G3,T3a,Absent,NA,Primary Tumor,Kidney,0.990909091,3.7,Unifocal,pNx,M1,1,0,0,0,0,0,XP669T_TGc1,XP669T_TGc1,Yes
+XP669,XP669,53,Male,Sunitinib,G3,T3a,Absent,NA,Primary Tumor,Kidney,1,3.7,Unifocal,pNx,M1,1,0,0,0,0,0,XP669T_TGc2,XP669T_TGc2,Yes
+XP681,XP681,57,Male,Treatment Naïve,G4,T3a,Present,Absent,Primary Tumor,Kidney,0.97752809,14,Unifocal,pN0,M1,1,0,0,0,0,0,XP681T_TGc0,XP681T_TGc0,Yes
+XP681,XP681,57,Male,Treatment Naïve,G4,T3a,Present,Absent,Primary Tumor,Kidney,0.97752809,14,Unifocal,pN0,M1,1,0,0,0,0,0,XP681T_TGc0,XP681T_TGc0b,Yes
+XP685,XP685,59,Female,Treatment Naïve,G4,T3a,Present,Absent,Primary Tumor,Kidney,0.980392157,10.5,Unifocal,pNx,M0,1,1,0,0,1,0,XP685T_TGc0a,XP685T_TGc0a,No
+XP685,XP685,59,Female,Treatment Naïve,G4,T3a,Present,Absent,Primary Tumor,Kidney,1,10.5,Unifocal,pNx,M0,1,1,0,0,1,0,XP685T_TGc0b,XP685T_TGc0b,No
+XP700,XP700,53,Male,Treatment Naïve,G3,T3b,Absent,NA,Primary Tumor,Kidney,1,15.5,Unifocal,pNx,M0,1,1,0,1,0,0,XP700T_TGc1,XP700T_TGc1,Yes
+XP700,XP701,53,Male,Treatment Naïve,G3,T3b,Absent,NA,Primary Tumor,Tumor Thrombus,1,15.5,Unifocal,pNx,M0,1,1,0,1,0,0,XP700Th_TGc1,XP700Th_TGc1,No
+XP740,XP740,55,Male,Treatment Naïve,G3,T4,Absent,Absent,Primary Tumor,Kidney,1,17.5,Unifocal,pN1,M0,1,1,0,1,0,0,XP740T_TGc2,XP740T_TGc2,NA
+XP785,XP785,52,Male,Treatment Naïve,G4,T4,Present,NA,Primary Tumor,Kidney,1,14,Multifocal,pN0,M1,1,0,0,0,1,0,XP785T_TGc1,XP785T_TGc1,Yes
+XP843,XP843,70,Female,Treatment Naïve,G4,T3a,Present,Present,Primary Tumor,Kidney,0.951612903,8.2,Multifocal,pNx,M0,1,0,1,1,0,0,XP843T_TGc1,XP843T_TGc1,Yes
+XP954,XP955,63,Female,Treatment Naïve,G4,T3a,Absent,NA,Primary Tumor,Tumor Thrombus,0.973684211,12.5,Unifocal,pNx,M1,1,0,0,0,0,0,XP954Th_TGc1,XP954Th_TGc1,Yes
+XP966,XP968,52,Female,Treatment Naïve,G3,T4,Absent,Absent,Primary Tumor,Adrenal gland [direct invasion],0.938271605,21,Unifocal,pN0,M0,1,1,0,1,0,0,XP966T_TGc0,XP966T_TGc0,NA
+XP976,XP977,78,Male,Treatment Naïve,G4,T3a,Present,Present,Primary Tumor,Tumor Thrombus,0.996466431,8,NA,pNx,M0,1,0,0,0,1,1,XP976Th_TGc1,XP976Th_TGc1,Yes
